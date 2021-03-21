@@ -12,3 +12,5 @@ table of content :
 | read04a | [Programming with JavaScript](read04a.md) |
 | read04a | [Programming with JavaScript](read04a.md) |
 | read05 | [operators and loops](read05.md) |
+| read06 | [color](read06.md) |
+
