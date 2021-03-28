@@ -14,3 +14,12 @@ table of content :
 | read05 | [operators and loops](read05.md) |
 | read06 | [color](read06.md) |
 
+
+| assignment | link |
+| --- | ----------- |
+| read01| [](read01.md) |
+| read02 | [](read02.md) |
+
+
+
+
